@@ -13,3 +13,9 @@ errnil kubernetes
 errnil count:  107433
 cost:  303.976288ms
 ```
+
+### download
+
+```bash
+go install github.com/qianxi0410/errnil@latest
+```
